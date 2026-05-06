@@ -1,0 +1,9 @@
+
+=== Balanced workload (50/50 CPU/IO) ===
+Total completed: 1000
+Avg wait: 1.993742337s
+Max wait: 4.075413822s
+Avg turnaround: 2.194936305s
+Peak queue length: 1
+Worker utilization: 99.38%
+Makespan: 25.306477225s

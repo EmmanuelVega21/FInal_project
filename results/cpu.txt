@@ -1,0 +1,9 @@
+
+=== CPU-heavy workload (80/20) ===
+Total completed: 1000
+Avg wait: 1.809867433s
+Max wait: 3.534794069s
+Avg turnaround: 2.011988232s
+Peak queue length: 1
+Worker utilization: 99.46%
+Makespan: 25.403554216s
